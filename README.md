@@ -1,4 +1,4 @@
-# Chest-X-Ray-Images-Pneumonia-Multi-Head-Model
+Chest-X-Ray-Images-Pneumonia-Multi-Head-Model
 
 Pneumonia Detection from Chest X-rays
 
